@@ -19,7 +19,7 @@ Intelligent Issue Detection: Automatically flags potential problems like High Er
 
 Dual Reporting: Outputs a beautifully formatted summary to the console and a structured report to a JSON file.
 
-### ⭐ Bonus Feature: IP Geolocation
+# ⭐ Bonus Feature: IP Geolocation
 To provide deeper, more actionable insights, this tool includes a valuable bonus feature:
 
 Geographical Context: For every IP address flagged as "suspicious," the script makes a live API call to geolocate it. The report then includes the IP's city and country, helping teams to quickly identify the origin of unusual traffic patterns (e.g., "Location: Mountain View, United States").
@@ -60,4 +60,5 @@ Once setup is complete, simply run the script from your terminal:
 
 
        python analyze_logs.py
+
 
