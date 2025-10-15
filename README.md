@@ -1,4 +1,4 @@
-### 📊 Log File Analyzer
+# 📊 Log File Analyzer
 A powerful and efficient Python command-line tool designed to parse and analyze web server log files. This script provides DevOps and engineering teams with a high-level summary of web traffic, identifies potential issues, and generates actionable reports.
 
 
@@ -60,3 +60,4 @@ Once setup is complete, simply run the script from your terminal:
 
 
        python analyze_logs.py
+
